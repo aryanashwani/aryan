@@ -8,7 +8,7 @@
 
 
 ## :sassy_man:  About me
-- 🏫: I am a 3rd year ECE student at `Tezpur University`
+- 🏫: I am 3rd year ECE student at `Tezpur University`
 - :computer: I am a competitive programmer mainly at `Leetcode` and `GeeksforGeeks`.
 - 🖥️ I am a `Flutter Developer and Mern Developer`
 - 🧑‍🎓 I’m currently learning: `Backend Development` and `Software Engineering`.
