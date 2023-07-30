@@ -66,7 +66,7 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 
-[![Aryan's github activity graph](https://github-readme-activity-graph.shubh-shubhanka.repl.co/graph?username=aryanashwani&theme=tokyo-night)](https://github-readme-activity-graph.aryanashwani.repl.co/graph?username=aryanashwani)
+[![Aryan's github activity graph](https://github-readme-activity-graph.shubh-shubhanka.repl.co/graph?username=aryanashwani&theme=tokyo-night)](https://github-readme-activity-graph.shubh-shubhanka.repl.co/graph?username=aryanashwani)
   <br/>
 
 
