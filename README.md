@@ -12,7 +12,7 @@
 - :computer: I am a competitive programmer mainly at `Leetcode` and `GeeksforGeeks`.
 - 🖥️ I am a `Flutter Developer and Mern Developer`
 - 🧑‍🎓 I’m currently learning: `Backend Development` and `Software Engineering`.
-- :thinking: I’m currently Looking for: `Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1iEwZu6Al9vSVKZK5ZPFosV1PCWVqMw4Y/view?usp=sharing).
+- :thinking: I’m currently Looking for: `Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1b1LE1cEH3qiwRM-FFHF48LVSBH4T7VZ2/view?usp=drive_link).
 - :nerd_face: `Eat〰️Code〰️Compile〰️Repeat`.
 
 <br>
